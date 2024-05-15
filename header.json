@@ -1,5 +1,7 @@
 {
-"name": "皿段位認定2",
+"name": "皿複合難易度表",
+"symbol": "h◎",
+"data_url": "score.json",
 "course": [
 	{
 		"class": "bms.player.beatoraja.CourseData",
