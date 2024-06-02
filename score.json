@@ -1848,17 +1848,6 @@
       "artist": "H.U.T GiGAR"
    },
    {
-      "md5": "9371cbf763b6639b918bd8e6b07dd2a4",
-      "lr2_bmsid": 201958,
-      "url": "http://www.luzeria.net/music/bms.htm",
-      "url_diff": "http://izayoi.tada-katsu.com/bms.html",
-      "name_diff": "十六皿夜",
-      "title": "Midnight -皿式- Phonic",
-      "comment": "",
-      "level": "4",
-      "artist": "ルゼ"
-   },
-   {
       "md5": "aa586adc9e1c0d8e89acd56f3d154c80",
       "lr2_bmsid": 202803,
       "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=89",
@@ -4004,17 +3993,6 @@
       "artist": "keyc"
    },
    {
-      "md5": "db2006c2b223d2547b10389912a5e371",
-      "lr2_bmsid": 199565,
-      "url": "http://izayoi.tada-katsu.com/bms.html",
-      "url_diff": "http://izayoi.tada-katsu.com/bms.html",
-      "name_diff": "十六皿夜",
-      "title": "FORBIDDEN <かまぼこ工場>",
-      "comment": "",
-      "level": "16",
-      "artist": "403 ERROR"
-   },
-   {
       "md5": "bf4e717b59902c7105ee6d6030afd023",
       "lr2_bmsid": 199185,
       "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=2&event=66",
@@ -4233,17 +4211,6 @@
     "title": "仲間を求めて [HD]",
     "md5": "48b377585b9a3ce31b3d57c6bd073a0b"
    },
-   {
-      "md5": "1a5e98711a808eb32d944aee7e048761",
-      "lr2_bmsid": 201956,
-      "url": "http://web.archive.org/web/*/http://lagunabms.hp.infoseek.co.jp/begin.zip",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/begin/begin_izayoi_sarather.bms",
-      "name_diff": "十六夜",
-      "title": "The Beginnings -Yoisarather-",
-      "comment": "252枚 簡単",
-      "level": "-1",
-      "artist": "juno & une"
-    },
     {
       "md5": "8d06fc8a30ad44cb1003eeb014c3c6ee",
       "lr2_bmsid": 253311,
@@ -4289,39 +4256,6 @@
       "artist": "AKITO(補完)"
     },
     {
-      "md5": "c27648e170f545877eadacf6427e7324",
-      "lr2_bmsid": 194030,
-      "url": "http://www.nicovideo.jp/watch/sm23889334",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/type/_type_izayoi_sarather_easy.bme",
-      "name_diff": "十六夜",
-      "title": "The Typewriter[Yoisaraeasy]",
-      "comment": "517枚 練習用",
-      "level": "1",
-      "artist": "MIDI:Akira BMS:krg"
-    },
-    {
-      "md5": "5827beff9b849b3a050fedac64f8ef20",
-      "lr2_bmsid": 194056,
-      "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=329&event=83",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/bitter_and_sweet/_izayoi_yoisarather_easy.bml",
-      "name_diff": "十六夜",
-      "title": "Bitter and Sweet[Yoisaraeasy]",
-      "comment": "408枚 偶数皿",
-      "level": "1",
-      "artist": "Alfort"
-    },
-    {
-      "md5": "4ec19b49dc244514864009b7b445ea61",
-      "lr2_bmsid": 199254,
-      "url": "http://www.geocities.jp/mrabc_signal/",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/ins/ins-f_izayoi_sarather.bme",
-      "name_diff": "十六夜",
-      "title": "INSTRUMENT FLYING[Yoisarather]",
-      "comment": "318枚 2連皿,3連皿　発狂の練習譜面がコンセプト",
-      "level": "1",
-      "artist": "Mr.ABC"
-    },
-    {
       "md5": "cd5b8f7362f4e87e251bc26443476810",
       "lr2_bmsid": 263888,
       "url": "https://twitter.com/lydian28/status/942028046122459136",
@@ -4344,17 +4278,6 @@
       "artist": "HASEKO feat.setuna"
     },
     {
-      "md5": "eb5b45b4ae604021915a9926fa9d0ff2",
-      "lr2_bmsid": 201982,
-      "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=4&event=96",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/merry/zekk_merrygoround_izayoi_yoisarather.bme",
-      "name_diff": "十六夜",
-      "title": "Merry-Go-Round[Yoisarather]",
-      "comment": "448枚 皿絡みちょっと単調",
-      "level": "2",
-      "artist": "Zekk"
-    },
-    {
       "md5": "5c895e8b198da263ef6b7fbaed656e7b",
       "lr2_bmsid": 206557,
       "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=49&event=96",
@@ -4364,28 +4287,6 @@
       "comment": "487枚 コンボカッター有",
       "level": "2",
       "artist": "A4paper"
-    },
-    {
-      "md5": "18f9fcd87d07ed99d447f5aa90116f74",
-      "lr2_bmsid": 201147,
-      "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=90",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/beatrix/beatrix_izyoi_yoisarather.bms",
-      "name_diff": "十六夜",
-      "title": "BeatriX[Yoisarather]",
-      "comment": "426枚　微縦連",
-      "level": "2",
-      "artist": "dj KLAVIA"
-    },
-    {
-      "md5": "f42177077ddd8ac8b3ed7eb389098ba3",
-      "lr2_bmsid": 201162,
-      "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=12&event=96",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/cyber/WOC_izayoi_Yoisarather_fix.bms",
-      "name_diff": "十六夜",
-      "title": "The World of Cyber[Yoisarather]",
-      "comment": "560枚  3，3，4等の奇数→偶数皿多め ラス殺し系",
-      "level": "2",
-      "artist": "DJ LATI"
     },
     {
       "md5": "a4a9e7df55b86ac8275e57a7bf5d0e0d",
@@ -4531,17 +4432,6 @@
       "artist": "Lime / Frantzz"
     },
     {
-      "md5": "56602be05e36e99da83bad4fe9388846",
-      "lr2_bmsid": 201149,
-      "url": "https://onedrive.live.com/?cid=E518D7E82689FB7E&id=E518D7E82689FB7E!114",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/shock/_28_13_izayoi_yoisarather.bme",
-      "name_diff": "十六夜",
-      "title": "Shock Waltz[Schratch Waltz]",
-      "comment": "641枚 中盤回復",
-      "level": "5",
-      "artist": "Is-m(補完)"
-    },
-    {
       "md5": "a31fbdbdcefd963223150b918d35a4b2",
       "lr2_bmsid": 254353,
       "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=219&event=116",
@@ -4573,17 +4463,6 @@
       "comment": "851枚 ラス殺し高速皿",
       "level": "6",
       "artist": "ユメミド / LeaF (movie : テンソル / 遥壱朗)"
-    },
-    {
-      "md5": "070d9a702396fc429c0d65007339120f",
-      "lr2_bmsid": 201959,
-      "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=26&event=98",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/Trident/Trident_izayoi_yoisarather.bml",
-      "name_diff": "十六夜",
-      "title": "Trident[Yoisarather]",
-      "comment": "676枚 LN皿 リズム変化皿 一定皿+鍵盤",
-      "level": "7",
-      "artist": "ORC"
     },
     {
       "md5": "f1b839d3ac94e18ab62bbaa7e35ec6af",
@@ -4628,17 +4507,6 @@
       "comment": "1013枚 序盤高速皿",
       "level": "9",
       "artist": "ルゼ VS dawn-system"
-    },
-    {
-      "md5": "2880caf61a2a6a448aa9572317d89ff6",
-      "lr2_bmsid": 199564,
-      "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=101&event=74",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/nostalzia/takoyaki_o - Nostalzia_izayoi_scratch.bme",
-      "name_diff": "十六夜",
-      "title": "Nostalzia[Scratch]",
-      "comment": "586枚 LN　個人差強 BPM変化",
-      "level": "10",
-      "artist": "takoyaki_o"
     },
     {
       "md5": "9758eacba09afe8256dff11e133fba37",
@@ -4705,17 +4573,6 @@
       "comment": "989枚 高BPM 一定皿体力",
       "level": "14",
       "artist": "LunaticSounds / ShiginoEicar"
-    },
-    {
-      "md5": "d017e011665e347a9d62685d936b1a73",
-      "lr2_bmsid": 194059,
-      "url": "http://manbow.nothing.sh/event/event.cgi?action=More_def&num=329&event=83",
-      "url_diff": "http://izayoi.tada-katsu.com/sabun/bitter_and_sweet/_izayoi_yoisarather.bml",
-      "name_diff": "十六夜",
-      "title": "Bitter and Sweet[Yoisarather]",
-      "comment": "856枚 LN皿 高速皿 ラスト音追加",
-      "level": "14",
-      "artist": "Alfort"
     },
     {
       "md5": "40c7016a07b953e86e28260e67b86f84",
